@@ -1,8 +1,6 @@
 // rafce
 import React from "react";
-// filepath: src/layout/Default.layout.jsx
-import Navbar from '../components/Navbar/Navbar.Component';
-
+import Navbar from "../components/Navbar/Navbar.Component";
 
 const DefaultLayoutHoc =
   (Component) =>
